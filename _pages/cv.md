@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Digital Security, Radboud University, 2022 - now
+* M.S. in Electrical Engineering, Institut Teknologi Bandung, 2014 - 2016
+* B.S. in Electrical Engineering, Institut Teknologi Bandung, 2008 - 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018 - now: Lecturer
+  * Insitut Teknologi Bandung
+  * Duties includes: Give a lecture for the bachelor program in the school of electrical engineering and informatics.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2022: Mentor
+  * Kominfo Digital Talent Scholarship 
+  * Duties includes: Mentor for IT and security-related courses at Fresh Graduate Academy, Professional Academy, Government Transformation Academy, and Talent Scouting. 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2017 - May 2018: Consultant for ICT Project 
+  * PT. Elektronika Utama ITB
+  * Duties included: Create a project related with ICT
+
+* January 2017 - August 2017: System Analyst 
+  * Dinas Komunikasi dan Informatika Kota Bandung
+  * Duties included: Analyzing existing application, create a data integrationn's blueprint, and vulnerabilities assessment
   
-Skills
+Certified for Trainer
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Cisco**: CCNA Network Security, CCNA CyberOps, CCNA DevNet
+* **EC Council**: CEH, CHFI, ECSS
+* **RedHat**: RHCSA, RHCE
 
 Publications
 ======
@@ -53,12 +51,35 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+
+Grants and Awards
+=====
+* Beasiswa Pendidikan Indonesia (BPI) Scholarship - Kemenristek Dikti (2022-2026)
+* :trophy: Outstanding Contributions for Education - SEEI ITB (2021)
+* :trophy: Instructor Excellence Advanced - Cisco Netacad (2019 and 2021)
+* Distance Learning for Frontier, Outermost, and Disadvantaged Regions - Kemenristekdikti (2020)
+* ASEAN Network Security Best Practice - ASEAN (2019)
+* Cumlaude, ITB - 2016
+
+Academic and Other Services
 ======
-* Currently signed in to 43 different slack teams
+Program Commitee
+* 2024: Kongres Pelajar Indonesia di Belanda
+* 2023: Kongres Pelajar Indonesia di Belanda
+* 2020 - 2021: Public Lecture KKTI
+* 2019: ICEEI
+
+Reviewer
+* 2021: ISESD
+* 2019: ICITSI
+
+Other
+* 2025: [ORIGIN](https://www.origin-nl.org/)
+* 2024: Representative of the BPI Awardee from the Netherlands, Head of the Research and Innovation Division at PPI Belanda
+* 2023: Representative of the BPI Awardee from the Netherlands
