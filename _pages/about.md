@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website, where you can view my CV."
+title: "Welcome to my personal website."
 author_profile: true
 redirect_from: 
   - /about/
