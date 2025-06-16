@@ -6,5 +6,5 @@ permalink: /publication/2021-01-01-Detection-of-the-Key-Actor-of-Issues-Spreadin
 date: 2021-01-01
 venue: 'In the proceedings of 2021 IEEE Asia Pacific Conference on Wireless and Mobile (APWiMob)'
 link: 'https://ieeexplore.ieee.org/abstract/document/9435268'
-citation: 'Audy Oroh,  Yoanes Bandung,  Luqman Muhammad Zagi'
+citation: 'Audy Joize Oroh,  Yoanes Bandung,  Luqman Muhammad Zagi'
 ---
