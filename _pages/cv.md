@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Digital Security, Radboud University, 2022 - now
   * Topics: Large scale measurements for web security and privacy.
-  * Supervised by dr. Gunes Acar and dr. Erik Poll
+  * Supervised by [dr. Gunes Acar](https://gunesacar.net) and dr. Erik Poll
 * M.S. in Electrical Engineering, Institut Teknologi Bandung, 2014 - 2016
   * Topics: Design Implementation and Measurement of Obfuscation Technique in Polymorphic Malware
   * Supervised by prof. Yusep Rosmansyah 
