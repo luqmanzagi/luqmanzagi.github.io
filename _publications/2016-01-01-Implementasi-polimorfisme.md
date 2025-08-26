@@ -5,6 +5,6 @@ category: Theses
 permalink: /publication/2016-Theses-Master
 date: 2016-09-01
 venue: 'Sekolah Teknik Elektro dan Informatika, Institut Teknologi Bandung'
-link: 'https://zenodo.org/records/16292264'
+link: 'https://arxiv.org/abs/2508.00874'
 citation: 'Luqman Muhammad Zagi'
 ---
