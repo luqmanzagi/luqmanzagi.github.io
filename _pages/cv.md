@@ -66,6 +66,7 @@ Talks
 
 Grants and Awards
 =====
+* :trophy: Best Presenter - Kongres Pelajar Indonesia di Belanda 2025
 * Beasiswa Pendidikan Indonesia (BPI) Scholarship - Kemenristek Dikti (2022-2026)
 * :trophy: Outstanding Contributions for Education - SEEI ITB (2021)
 * :trophy: Instructor Excellence Advanced - Cisco Netacad (2019 and 2021)
